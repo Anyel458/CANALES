@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 ,CANAL13
+
+
+
+#EXTINF:-2 ,MEGA
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:-1 tvg-
+
+#EXTINF:-2 ,CHILEVISION
+
+
+
+
+#EXTINF:-2 ,TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?
+
+PlaylistM3UCL
+#EXTINF:-1 tvg-
+
+
+
+#EXTINF:-2 ,TV+1
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?
+
+PlaylistM3UCL
+#EXTINF:-1 tvg-
+
+#EXTINF:-1 ,TVN
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?
+
+PlaylistM3UCL
+
+#EXTINF:-1 ,TVN2
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?
+
+PlaylistM3UCL
+
+#EXTINF:-1 ,TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?
+
+PlaylistM3UCL
+
+#EXTINF:-1 ,TV+ DIFERIDO
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?
+
+PlaylistM3UCL
+
+#EXTINF:-1 ,UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TVN 24HORAS
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?
+
+PlaylistM3UCL
+
+#EXTINF:-1 ,MEGANOTICIAS
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+
+#EXTINF:-1 ,CANAL 9 BIOBIO TV
+https://unlimited10-cl.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m
+
+3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,TV EDUCA CHILE
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?
+
+PlaylistM3UCL
+
